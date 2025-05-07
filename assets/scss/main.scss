@@ -1,9 +1,5 @@
 
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-@import './colors.scss';
+@use './colors.scss';
 
 * {
     // insert global css here
